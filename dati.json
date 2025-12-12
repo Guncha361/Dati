@@ -1,0 +1,34 @@
+[
+  {
+    "metric": "HTML usage on websites (%)",
+    "value": 97.3
+  },
+  {
+    "metric": "UTF-8 character encoding usage (%)",
+    "value": 98.9
+  },
+  {
+    "metric": "Unix operating system usage on sites (%)",
+    "value": 90.6
+  },
+  {
+    "metric": "Windows operating system usage on sites (%)",
+    "value": 9.7
+  },
+  {
+    "metric": "Nginx web server usage (%)",
+    "value": 33.1
+  },
+  {
+    "metric": "Cloudflare web server usage (%)",
+    "value": 25.6
+  },
+  {
+    "metric": "Apache web server usage (%)",
+    "value": 24.6
+  },
+  {
+    "metric": "PNG image format usage (%)",
+    "value": 78.1
+  }
+]
